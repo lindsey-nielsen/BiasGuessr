@@ -4,12 +4,6 @@
 
 Guess your favorite K-POP (or western) artists with your voice
 
-## Table of Contents
-
-- [General Info](#general-info)
-- [Technologies](#technologies)
-- [Where to Play](#where-to-play)
-
 # General Info
 
 ## Features
@@ -32,7 +26,7 @@ Guess your favorite K-POP (or western) artists with your voice
   &emsp;&emsp;
   <sub><a href="https://github.com/lindsey-nielsen">Lindsey Nielsen</a></sub>
   &emsp;
-  <sub><a href="https://github.com/ca764763">Cassandra Alvarez</a></sub>
+  <sub><a href="https://github.com/ca764763">Casandra Alvarez</a></sub>
 </div>
 
 # Technologies
